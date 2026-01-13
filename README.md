@@ -9,5 +9,5 @@
 
 ## 実行方法
 ```bash
-javac CoinRush.java
-java CoinRush
+javac CoinRushStage.java
+java CoinRushStage
